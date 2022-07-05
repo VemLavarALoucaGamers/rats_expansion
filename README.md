@@ -21,16 +21,16 @@ If you came to this repository and liked the content, don't forget to leave a li
 We are Vem Lavar a Louça Gamers, to know more about us you can access our website [here](https://vemlavaralouca.com.br/about).
 
 ## Craftings
-rat skewer (1 stick + 1 cooked rat)
+rat skewer (1 stick + 1 cooked rat)<br />
 <img src="images/crafting/crafting rat skewer.png" alt="Logo" width="250"/><br />
 
-snack rat (3 toothpick + 1 cooked rat)
+snack rat (3 toothpick + 1 cooked rat)<br />
 <img src="images/crafting/crafting rat snack.png" alt="Logo" width="250"/><br />
 
-rat stew (1 bow + 1 cooked rat)
+rat stew (1 bow + 1 cooked rat)<br />
 <img src="images/crafting/crafting rat stew.png" alt="Logo" width="250"/><br />
 
-toothpick (1 stick)
+toothpick (1 stick)<br />
 <img src="images/crafting/crafting toothpick.png" alt="Logo" width="250"/><br />
 
 ## Credits
