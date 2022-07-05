@@ -1,0 +1,162 @@
+{
+  "mod_elements": [
+    {
+      "name": "RatSkewer",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rat_skewer"
+    },
+    {
+      "name": "RatsExpansion",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rats_expansion"
+    },
+    {
+      "name": "RatSnack",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rat_snack"
+    },
+    {
+      "name": "Toothpick",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "toothpick"
+    },
+    {
+      "name": "RatStew",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rat_stew"
+    },
+    {
+      "name": "RecipeRatSkewer",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "recipe_rat_skewer"
+    },
+    {
+      "name": "RecipeToothpick",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_toothpick"
+    },
+    {
+      "name": "RecipeRatSnack",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "recipe_rat_snack"
+    },
+    {
+      "name": "RatSkewerPlayerFinishesUsing",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rat_skewer_player_finishes_using",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RatSnackPlayerFinishesUsing",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rat_snack_player_finishes_using",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "RecipeRatStew",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "recipe_rat_stew"
+    },
+    {
+      "name": "RatStewPlayerFinishesUsing",
+      "type": "procedure",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rat_stew_player_finishes_using",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.rats_expansion.toothpick": "Toothpick",
+      "item.rats_expansion.rat_skewer": "Skewer Rat",
+      "itemGroup.tabrats_expansion": "Rats Expansion",
+      "item.rats_expansion.rat_stew": "Stew Rat",
+      "item.rats_expansion.rat_snack": "Snack Rat"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "rats_expansion",
+    "modName": "Rats: Expansion",
+    "version": "1.0.0",
+    "description": "This mod adds extra things to the Rats mod",
+    "author": "Tonhao Santos",
+    "websiteURL": "https://github.com/VemLavarALoucaGamers/rats_expansion",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "just_enough_items"
+    ],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Vem Lavar a Louca Gamers - https://vemlavaralouca.com.br/about",
+    "modElementsPackage": "net.mcreator.ratsexpansion",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}
