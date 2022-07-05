@@ -142,17 +142,19 @@
     "version": "1.0.0",
     "description": "This mod adds extra things to the Rats mod",
     "author": "Tonhao Santos",
-    "websiteURL": "https://mcreator.net",
-    "license": "Academic Free License v3.0",
+    "websiteURL": "https://github.com/VemLavarALoucaGamers/rats_expansion",
+    "license": "GNU Lesser General Public License version 2.1 (LGPLv2.1)",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "modPicture": "logo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
-    "mcreatorDependencies": [],
+    "mcreatorDependencies": [
+      "just_enough_items"
+    ],
     "currentGenerator": "forge-1.16.5",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "Vem Lavar a Louca Gamers - https://vemlavaralouca.com.br/about",
     "modElementsPackage": "net.mcreator.ratsexpansion",
     "lockBaseModFiles": false
   },

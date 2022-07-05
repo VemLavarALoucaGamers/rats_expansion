@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[36,)"
-license="Academic Free License v3.0"
+license="GNU Lesser General Public License version 2.1 (LGPLv2.1)"
 
 [[mods]]
 modId="rats_expansion"
